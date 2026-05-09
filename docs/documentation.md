@@ -6,8 +6,8 @@ A complete practical guide to MongoDB operators using a real-world **Job Portal*
 
 ## 📋 Table of Contents
 
-- [Setup — Fake Job Data](#-setup--fake-job-data)
-- [Comparison Operators](#-comparison-operators----eq-ne-gt-gte-lt-lte)
+- [Setup — Fake Job Data](./dummydata.md)
+- [Comparison Operators](./comparisonOparators.md)
 - [Logical Operators](#-logical-operators----and-or-not-nor)
 - [Element & Type Operators](#-element--type-operators----exists-type)
 - [Array Query Operators](#-array-query-operators----in-nin-all-size-elemmatch)
