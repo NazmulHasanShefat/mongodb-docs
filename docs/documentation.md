@@ -170,7 +170,7 @@ db.jobs.find({
 
 ---
 
-## 🔍 Element & Type Operators — `$exists`, `$type`
+# 🔍 Element & Type Operators — `$exists`, `$type`
 
 These operators don't compare values — they check whether a field **exists** or what **data type** it holds.
 
